@@ -1,0 +1,18 @@
+{
+  "log4js": {
+    "appenders": {
+      "system": {
+        "type": "dateFile",
+        "filename": "./log/arbn.log",
+        "pattern": "-yyyy-MM-dd",
+        "backups": 5
+      }
+    },
+    "categories": {
+      "default": {
+        "appenders": ["system"],
+        "level": "info"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "kkt": {
+    "//":"公開範囲 direct, private, unlisted, public",
+    "VISIBILITY": "public"
+  },
+  "url": {
+    "DCDSTARS": "http://www.aikatsu.com/stars/",
+    "CARDLIST": "http://www.aikatsu.com/stars/cardlist/"
+  },
+  "series": "0900",
+  "r_type": "aikatsu_cup",
+  "areas": [{
+    "area_id": "3",
+    "area_name": "北海道・東北"
+  }, {
+    "area_id": "4",
+    "area_name": "関東"
+  }, {
+    "area_id": "5",
+    "area_name": "中部"
+  }, {
+    "area_id": "6",
+    "area_name": "近畿"
+  }, {
+    "area_id": "7",
+    "area_name": "中国・四国"
+  }, {
+    "area_id": "8",
+    "area_name": "九州・沖縄"
+  }],
+  "ranks": [{
+    "page_id": "1",
+    "rank": "1"
+  }, {
+    "page_id": "2",
+    "rank": "200"
+  }]
+}
